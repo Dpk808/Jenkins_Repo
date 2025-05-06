@@ -49,10 +49,9 @@
 
 
 
-Then Global credentials (unrestricted): 
+Then Global credentials (unrestricted):
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/1.5%20Add%20Credentials.png)
 
-
-![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/1.5%20Add%20Credentials.png) 
 
 
 
@@ -399,10 +398,8 @@ Then Go back to the Jenkins Page > Configure and enable hook trigger:
 
 
 
-![image alt] (https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/10.1%20Enable%20hook%20trigger%20in%20jenkins%20config.png) 
 
-
-
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/10.1%20Enable%20hook%20trigger%20in%20jenkins%20config.png)
 
 
 
