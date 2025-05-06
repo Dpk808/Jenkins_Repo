@@ -153,13 +153,14 @@ Fill in:
 
 
 
-Then Click on Generate Pipeline Script: 
+Then Click on Generate Pipeline Script:
 
 
-![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/4.3%20Pipeline%20Script.png) 
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/4.3%20Pipeline%20Script.png)
 
 
 
+ 
 Copy this Script and keep it somewhere
 
 
@@ -281,6 +282,8 @@ Copy this url to somewhere safe:
 Enter this url on browser: 
 
 
+
+
 ![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/8.3%20accessing%20ngrok%20url.png) 
 
 
@@ -396,7 +399,7 @@ Then Go back to the Jenkins Page > Configure and enable hook trigger:
 
 
 
-![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/10.1%20Enable%20hook%20trigger%20in%20jenkins%20config.png) 
+![image alt] (https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/10.1%20Enable%20hook%20trigger%20in%20jenkins%20config.png) 
 
 
 
