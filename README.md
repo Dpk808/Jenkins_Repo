@@ -1,64 +1,79 @@
 # This Project is about CI / CD using Jenkins & Git WebHook Automation
 
-## (CI/ CD using Jenkins and ngrok)
+## (CI/ CD using Jenkins and ngrok) 
+
 
 
 
 1. Start Jenkins:
 
 
-![image alt](---image address---)
+
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/1.1%20Start%20Jenkins.png) 
+
 
 
 
 2.Log in to Jenkins:
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/1.2%20Logging%20In%20Jenkins.png) 
+
 
 
 
 ## Configure Jenkins:
 
 1. Go to Credentials:
+   
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/1.3%20Manage%20Jenkins%2C%20Credentials.png) 
+
 
 
 
 2. Then go to _**Stores scoped to Jenkins**_
+   
 
-![image alt](---image address---)
-
-
-
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/1.4%20Global%20Credentials.png)
 
 
 
 
 
-Then Global credentials (unrestricted):
-
-![image alt](---image address---)
 
 
 
-Then type in your Github username in the username field and a token (can be created by going to Settings in Github> Developer Settings> Personal Access token> Tokens (classic) ) in the password field:
+Then Global credentials (unrestricted): 
 
 
-![image alt](---image address---)
-
-
-
-And Create the Credentials.
-
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/1.5%20Add%20Credentials.png) 
 
 
 
-It will look something like this.
+
+Then type in your Github username in the username field and a token (can be created by going to Settings in Github> Developer Settings> Personal Access token> Tokens (classic) ) in the password field: 
 
 
-![image alt](---image address---)
+
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/1.5%20Credentials%20added.png) 
+
+
+
+
+And Create the Credentials. 
+
+
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/1.5%20The%20credentials%20page%20will%20show%20something%20like%20this.png) 
+
+
+
+
+It will look something like this. 
+
+
+
+![image alt]() 
+
 
 
 
