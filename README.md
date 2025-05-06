@@ -423,7 +423,7 @@ Once I make changes here and push it to github:
 
 
 
-## The Jenkins page autoamtically runs the build process: 
+## The Jenkins page automatically runs the build process: 
 
 
 ![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/10.3%20The%20changes%20in%20the%20git%20auto%20triggers%20the%20Jenkins%20Build%20Process.png) 
