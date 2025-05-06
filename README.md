@@ -72,24 +72,15 @@ It will look something like this.
 
 
 
-![image alt]() 
-
-
-
-
-
-
-
-
 ## Creating a Pipeline
 
 Create a new Item > Select Pipeline:
 
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/2.1%20Create%20a%20new%20Item.png)
 
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/2.2%20Create%20new%20Pipeline.png)
 
 
 
@@ -98,9 +89,9 @@ Create a new Item > Select Pipeline:
 
 ## Configure Pipeline:
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/3.1%20Pipeline.png)
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/3.2%20Pipeline%20Script.png)
 
 
 Select Pipeline script from SCM:
@@ -113,7 +104,7 @@ c. And then choose the previously created Credentials:
 
 
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/3.2%20Configure%20the%20Pipeline%20like%20this.png)
 
 
 
@@ -123,14 +114,14 @@ c. And then choose the previously created Credentials:
 
 Then Specify the Branch of your repo: (master/main)
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/3.3%20Selecting%20Branch.png)
 
 
 And proceed to_ **Pipeline Syntax**_
 
 ## Pipeline Syntax
 
-![image alt](---image address---)
+![image alt](https://github.com/Dpk808/Jenkins_Repo/blob/main/Jenkins_Screenshots/4.1%20Pipeline%20Syntax.png)
 
 Choose git:Git from the Sample step dropdown menu
 
